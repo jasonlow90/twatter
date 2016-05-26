@@ -1,0 +1,28 @@
+/* Normalise */
+
+body {
+  margin: none;
+  padding: none;
+
+}
+
+/* Layout */
+
+#top-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 150px;
+  border: dashed;
+}
+
+#top-menu img {
+  width: 10%;
+  padding-left: 20px;
+
+}
+
+#top-menu p {
+  padding-right: 20px;
+
+}
